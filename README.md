@@ -1,3 +1,3 @@
 # Thesis template
 
-This repository is basically presenting my current work on my biomedical segmentation thesis project at KU Leuven.
+This repository demonstrates the biomedical image segmentation thesis project I am currently working on at KU Leuven.
